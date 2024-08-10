@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "Desayuno",
+    "imagen": "https://foodiex-yz.netlify.app/img/icono-desayuno.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Vegano",
+    "imagen": "https://foodiex-yz.netlify.app/img/icono-vegano.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Carne",
+    "imagen": "https://foodiex-yz.netlify.app/img/icono-carne.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Postre",
+    "imagen": "https://foodiex-yz.netlify.app/img/icono-cake.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Chocolate",
+    "imagen": "https://foodiex-yz.netlify.app/img/icono-chocolate.svg"
+  }
+]

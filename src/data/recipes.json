@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Salmón asado con lima fresca y salsa de jengibre",
+        "duracion_preparacion": "30 minutos",
+        "categorias": "Carne",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-2.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Pancakes de avena y fresa con jarabe de miel",
+        "duracion_preparacion": "45 minutos",
+        "categorias": "Desayuno",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-1.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Gran Hamburguesa de carne de res Wagyu",
+        "duracion_preparacion": "20 minutos",
+        "categorias": "Saludable",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-3.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Pancakes afrutado con naranja y arándanos",
+        "duracion_preparacion": "25 minutos",
+        "categorias": "Vegetariano",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-7.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Albóndigas de pollo con queso crema",
+        "duracion_preparacion": "40 minutos",
+        "categorias": "Pollo",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-5.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Pasta cremosa de pollo y tocino",
+        "duracion_preparacion": "35 minutos",
+        "categorias": "Carne",
+        "image": "https://foodiex-yz.netlify.app/img/img-recipe-6.webp"
+    }
+]
